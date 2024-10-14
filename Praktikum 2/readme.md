@@ -1,4 +1,4 @@
-# <h1 align="center">Praktikum 2 Go - Modul 2 Review Struktur Kontrol</h1>
+# <h1 align="center">Praktikum 2 Go - Modul 2 Review Struktur Kontrol (Modul 2A)</h1>
 <p align="center">Jordan Angkawijaya - 2311102139</p>
 
 ## 1. Program Code "Hello"
