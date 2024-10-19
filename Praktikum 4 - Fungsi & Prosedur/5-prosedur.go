@@ -17,6 +17,7 @@ func fibonacci(n int) int {
 
 func prosedur() {
 	// Menampilkan deret Fibonacci hingga suku ke-10
+	fmt.Println("Contoh Prosedur - Deret Fibonacci")
 	fmt.Println("Deret Fibonacci hingga suku ke-10: ")
 	for i := 0; i <= 10; i++ {
 		fmt.Printf("Fibonacci(%d) = %d\n", i, fibonacci(i))

@@ -6,6 +6,9 @@ import (
 
 func fungsi() {
 	var a, b int
+
+	fmt.Print("Contoh Fungsi - Permutasi\n")
+	fmt.Print("Masukkan nilai a dan b: ")
 	fmt.Scan(&a, &b)
 	if a >= b {
 		fmt.Println(permutasi(a, b))

@@ -32,7 +32,22 @@ func main() {
 	fmt.Println("")
 
 	switch pilihanMenu {
-	
+	case 1:
+		fungsi()
+	case 2:
+		perDanKomFungsi()
+	case 3:
+		matematika()
+	case 4:
+		titikLingkaran()
+	case 5:
+		prosedur()
+	case 6:
+		perDanKomProsedur()
+	case 7:
+		soalWaktu()
+	case 8:
+		deretBilangan()
 	default:
 		fmt.Println("Huh? What number did you just type?")
 	}

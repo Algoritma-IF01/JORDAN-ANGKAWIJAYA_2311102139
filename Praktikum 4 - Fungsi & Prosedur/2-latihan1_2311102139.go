@@ -26,9 +26,10 @@ func combination(n, r int) int {
 	return factorial(n) / (factorial(r) * factorial(n-r))
 }
 
-func fungsiLatihan1() {
+func perDanKomFungsi() {
 	var a, b, c, d int
 
+	fmt.Print("Latihan 1 Fungsi - Permutasi dan Kombinasi\n")
 	// Meminta input dari pengguna
 	fmt.Println("Masukkan nilai a, b, c, d: ")
 	fmt.Scan(&a, &b, &c, &d)
